@@ -1,0 +1,33 @@
+_repo: Vie-de-J-susHistoire-des-origines-du-christianisme--1_15113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Renan, Ernest
+    aliases:
+    - Renan, Joseph Ernest
+    - Renan, Ernestos
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '4527'
+    url: http://www.gutenberg.org/2009/agents/4527
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Renan
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2005-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15113'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Biography'
+title: 'Vie de Jésus: Histoire des origines du christianisme; 1'
+url: http://www.gutenberg.org/ebooks/15113
